@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Freelax87, Dominik with my real Mame :-)
+- 👋 Hi, I’m @Freelax87, Dominik with my real Name :-)
       I am running a small, but highly speciallized 3D printing business mainly with FDM Printers in the high temperature range
 - 👀 I’m mainly interested in 3D Printing, but also some droneflight and image ai stuff.
 - 🌱 I’m currently learning GCode related stuff
